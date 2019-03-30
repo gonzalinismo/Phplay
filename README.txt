@@ -11,3 +11,9 @@ Stack:
 	-DB: MYSQL workbench
 	-Front-end: HTML, Materialize CSS Framework.
 	-Back-end: PHP.	
+
+Aclaracion:
+En la version alojada en el servidor se corrigió el manejo de "headers", utilizando las condiciones pertinentes para evitar errores al redireccionar
+
+To Do:
+Corregir utilizacion de headers en la version de github
